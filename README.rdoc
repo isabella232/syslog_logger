@@ -1,6 +1,6 @@
 = SyslogLogger
 
-http://github.com/ngmoco/sysloglogger
+https://github.com/ngmoco/syslog_logger
 
 == DESCRIPTION:
 
